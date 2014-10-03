@@ -1,4 +1,4 @@
 Translit
 ========
 
-App with similar functiolity to http://translit.net/
+App with similar functionality to http://translit.net/
